@@ -1,0 +1,7 @@
+{
+  "name": "Lumi v2 - AI Voice Assistant",
+  "description": "A sophisticated AI voice assistant named Lumi v2, developed and created by Pralay, featuring real-time conversational capabilities and a unique voice profile.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
